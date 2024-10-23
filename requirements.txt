@@ -1,0 +1,5 @@
+install cv2, numpy, PIL (Pillow) via the following commands:
+	a) pip install cv2
+	b) pip install numpy
+	c) pip install Pillow
+
